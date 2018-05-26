@@ -1,1 +1,2 @@
-# stacks-queues
+# Stacks && Queues - Data Structures and Algorithms
+
