@@ -2,7 +2,11 @@
 
 ### Stack
 
+Implemented push/pop or methods.
+
 ### Queue
+
+Implemented dequeue/enqueue methods.
 
 ### License
 
